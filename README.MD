@@ -10,3 +10,6 @@
 ```
 ### visit
 localhost:8080
+
+## Introduction
+single-threaded server implementation of HTTP 1.0
