@@ -4,6 +4,10 @@
 ~:cmake ..
 ~:make
 ```
++ #### require
+```
+~:sudo apt-get install libboost-all-dev
+```
 ### start server
 ```
 ~:./asio_server 127.0.0.1 8080 ./
